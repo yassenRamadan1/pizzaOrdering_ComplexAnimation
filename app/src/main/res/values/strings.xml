@@ -3,4 +3,7 @@
     <string name="pizza">Pizza</string>
     <string name="favorites">Favorites</string>
     <string name="_17">17$</string>
+    <string name="s">s</string>
+    <string name="m">M</string>
+    <string name="l">L</string>
 </resources>
